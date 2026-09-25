@@ -1,0 +1,27 @@
+
+
+
+Version 0.0.01
+
+    Added
+            Waves/Formula
+                - Angular Frequency -> "angular_frequency"
+                - Frequency -> "frequency"
+                - Period -> "period"
+                - Wavelength -> "wavelength"
+                - Wave Number -> "wave_number"
+                - Wave Speed -> "wave_speed"
+                - Wave Function -> "wave_function"
+                - Sinusoidal Particle Velocity -> "sinusoidal_particle_velocity"
+                - Sinusoidal Particle Acceleration -> "sinusoidal_particle_acceleration"
+                - Sinusoidal Spatial Curvature -> "sinusoidal_spatial_curvature"
+
+            Core/Constants
+                - Speed of Light (m/s) -> "c"
+                - Solar Luminosity (W) -> "solar_luminosity"
+                - Solar Mass (kg) -> "solar_mass"
+                - Atomic Mass Unit (kg) -> "atomic_mass_unit"
+                - Molar Gas Constant (J/mol*K) -> "molar_gas_constant"
+
+    Edited
+            N/A

@@ -1,2 +1,3 @@
-# physics-library
+# Physena
 
+A computational physics library.

@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "physena"
+version = "0.0.1"
+authors = [
+  { name="Ben Churchill", email="benjamin.churchill.uk@gmail.com" },
+]
+description = "Computational Physics Library for Python"
+readme = "README.md"
+requires-python = ">=3.12"
+classifiers = [
+  "Development Status :: 2 - Pre-Alpha",
+  "Intended Audience :: Science/Research",
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: Apache Software License",
+  "Operating System :: OS Independent",
+  "Topic :: Scientific/Engineering :: Physics",
+]
+dependencies = [
+  "numpy",
+]
+
+[project.urls]
+Homepage = "https://github.com/BenChurchillUK/physena"
+Issues = "https://github.com/BenChurchillUK/physena"
